@@ -6,8 +6,8 @@ Event Connect app for event connecting
 
 ## How to use this app in dev env
 
-1. run npm start for the client
-2. run npm run server for the server
+1. run ``npm start`` for the client
+2. run npm ``run server`` for the server
 
 ### Info
 
